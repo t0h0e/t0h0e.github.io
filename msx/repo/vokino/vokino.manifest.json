@@ -1,0 +1,14 @@
+{
+   "id": "vokinotv",
+   "version": "1.0.11",
+   "type": "web",
+   "title": "VoKino",
+   "appDescription": "VoKino",
+   "iconUri": "https://t0h0e.github.io/msx/repo/vokino/icon.png?raw=true",
+   "sourceUrl": "https://vokino.pro",
+   "rootRequired": false,
+   "ipkUrl": "https://t0h0e.github.io/msx/repo/raw/main/vokino/vokino.ipk",
+   "ipkHash": {
+      "sha256": "1997f8aadfe22e7beda692fe6aeec468c93b577eb0cb2738bb697b77bb306298"
+   }
+}

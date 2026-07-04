@@ -1,0 +1,14 @@
+{
+   "id": "com.atodo.ml",
+   "version": "0.0.3",
+   "type": "web",
+   "title": "Atodo",
+   "appDescription": "Приложение ATODO",
+   "iconUri": "https://t0h0e.github.io/msx/repo/atodo/ATODO_icon.png?raw=true",
+   "sourceUrl": "https://t.me/ipk_moding_chat",
+   "rootRequired": false,
+   "ipkUrl": "https://t0h0e.github.io/msx/repo/raw/main/atodo/com.atodo.ml_0.0.3_all.ipk",
+   "ipkHash": {
+      "sha256": "082f0bda50838a09307c5a8cf43fab2f1ceb16dbc5bc0f219c9b3b1481b80605"
+   }
+}

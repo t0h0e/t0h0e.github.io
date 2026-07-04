@@ -1,0 +1,13 @@
+{
+"id": "multiki.msx", 
+"version": "2.0.0", 
+"type": "web", 
+"title": "MULTIKI", 
+"appDescription": "Приложение МУЛЬТИКИ", 
+"iconUri": "https://t0h0e.github.io/msx/repo/multiki/icon.png?raw=true", 
+"sourceUrl": "https://t.me/chat_ipk_m", 
+"rootRequired": false, 
+"ipkUrl": "https://t0h0e.github.io/msx/repo/raw/main/multiki/multiki.msx_2.0.0_all.ipk", 
+"ipkHash": {"sha256": "aeb8863ac00b35299d36d07c3979bf1788adf6e067ab4dbad2d9fd8dddaca7f0"}
+}
+ 

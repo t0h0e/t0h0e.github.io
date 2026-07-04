@@ -1,0 +1,14 @@
+{
+   "id": "com.ott.drm",
+   "version": "0.0.6",
+   "type": "web",
+   "title": "DRM-play",
+   "appDescription": "Ott DRM-play",
+   "iconUri": "https://t0h0e.github.io/msx/repo/drm/DRM_icon.png?raw=true",
+   "sourceUrl": "https://t.me/ott_drmplay",
+   "rootRequired": false,
+   "ipkUrl": "https://t0h0e.github.io/msx/repo/raw/main/drm/com.ott.drm_0.0.6_all.ipk",
+   "ipkHash": {
+      "sha256": "bafc2159b5d73c342ceb430cdcdc28fdccda9f64e0ba6a895d6e6629617b174b"
+   }
+}

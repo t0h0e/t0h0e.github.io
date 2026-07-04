@@ -1,0 +1,13 @@
+{
+"id": "akter.black", 
+"version": "1.0.0", 
+"type": "web", 
+"title": "Akter Black", 
+"appDescription": "Akter Black. Приложение для просмотра видеоконтента", 
+"iconUri": "https://t0h0e.github.io/msx/repo/akter.black/icon.png?raw=true", 
+"sourceUrl": "https://t.me/akter_black", 
+"rootRequired": false, 
+"ipkUrl": "https://t0h0e.github.io/msx/repo/raw/main/akter.black/akter.black_1.0.0_all.ipk", 
+"ipkHash": {"sha256": "5a599b1a8cde05f9714fc1bcdcbdd11e4ce5ea2f892d74aec6986dd928f256b2"}
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                         

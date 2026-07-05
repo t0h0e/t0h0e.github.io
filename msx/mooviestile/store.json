@@ -60,12 +60,12 @@
             "important": true,
             "action": "update:content:underlay:text",
             "data": {
-               "headline": "MSXPlayer - V4",
+               "headline": "MSXPlayer - V3",
                "text": "Может не  работать на старых весиях MSX и старых устройствах"
             }
          },
          "image": "https://t0h0e.github.io/msx/alterstore/msx-icon.png",
-         "action": "panel:https://t0h0e.github.io/msx/alterstore/panel/msxplayer_v4.json"
+         "action": "panel:https://t0h0e.github.io/msx/alterstore/panel/msxplayer_v3.json"
       },
       {
          "selection": {

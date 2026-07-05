@@ -68,18 +68,18 @@
          }
       },
       {
-         "titleHeader": "{col:msx-white}MSXPlayer{br} V4",
+         "titleHeader": "{col:msx-white}MSXPlayer{br} V3",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "headline": "MSXPlayer V4",
-               "text": "Лаунчер MSXPlayer V4. Может не  работать на старых весиях MSX и старых устройствах"
+               "headline": "MSXPlayer V3",
+               "text": "Лаунчер MSXPlayer V3. Может не  работать на старых весиях MSX и старых устройствах"
             }
          },
-         "playerLabel": "MSXPlayer V4",
+         "playerLabel": "MSXPlayer V3",
          "image": "https://t0h0e.github.io/msx/alterstore/msx-icon.png",
-         "action": "menu:request:interaction:json:eyJoYW5kbGVySWQiOiJzdG9yZSIsInJlcXVlc3QiOiJtZW51In0=@http://v4.msxplayer.ru/plugins/interactions/msxplayer/index.html",
+         "action": "menu:request:interaction:menu@http://plugins.msxplayer.ru/store.html",
          "properties": {
             "trigger:back": "player:stop",
             "image:extension": "| {col:msx-white}Sixth Item"

@@ -43,7 +43,7 @@
       {
          "type": "button",
          "label": "Запустить",
-         "action": "content:http://msx.cc.ua/msx/start.json"
+         "action": "content:http://wap.orleya.net/tv/index.html"
       },
       {
          "type": "button",
@@ -52,7 +52,7 @@
          "data": {
             "name": "MSX CC UA",
             "version": "1.0.0",
-            "parameter": "content:http://msx.cc.ua/msx/start.json",
+            "parameter": "content:http://wap.orleya.net/tv/index.html",
             "welcome": "none"
          }
       }

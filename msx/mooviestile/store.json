@@ -1,7 +1,7 @@
 {
    "compress": true,
    "type": "list",
-   "background": "https://w.wallhaven.cc/full/nm/wallhaven-nm9k28.png",
+   "background": "https://w.wallhaven.cc/full/49/wallhaven-49yekn.png",
    "headline": "Все",
    "logo": "https://t0h0e.github.io/msx/logo/msy.png",
    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",

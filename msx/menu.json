@@ -131,6 +131,18 @@
          "image": "https://t0h0e.github.io/msx/logon/one_player.png",
          "action": "link:http://webos.oneplayer.me"
       },
+       {
+         "selection": {
+            "important": true,
+            "action": "update:content:underlay:text",
+            "data": {
+               "headline": "Lift_V3",
+               "text": "Приложение-каталог. Не содержит медиаконтента, но легко трансформируется в онлайн кинотеатр с возможностью просмотра торрентов и iptv"
+            }
+         },
+         "image": "https://4pda.to/s/as6yxlse4SIx7eA0DOow2wAEz2DIUFiPDXwo.jpg",
+         "action": "link:http://msx.benzac.de/?start=menu:request:interaction:menu@http://lift3.ws/msx/"
+      },
       {
          "selection": {
             "important": true,

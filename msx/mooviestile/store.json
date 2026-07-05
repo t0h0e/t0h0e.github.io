@@ -76,7 +76,7 @@
                "text": "Лаунчер-магазин приложений APPFXML STORE"
             }
          },
-         "image": "https://msx.appfxml.com/msx/appfxmlstore_m.png",
+         "image": "http://msx.appfxml.com/msx/appfxmlstore_m.png",
          "action": "panel:https://t0h0e.github.io/msx/alterstore/panel/appfxml.json"
       },
       {
